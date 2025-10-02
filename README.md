@@ -3,7 +3,7 @@
 A simple and responsive weather web application that shows the current weather based on city name.
 
 ## 🚀 Demo
-👉 [Live Demo](https://anmolmishra08.github.io/weather-app/)
+👉 [Live Demo](https://engineersubhamsingh.github.io/my-weather-app/)
 
 ## 📸 Screenshot
 ![Screenshot](./screenshot.png)
